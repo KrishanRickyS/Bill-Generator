@@ -1,1 +1,1 @@
-“Bill Generator” is a web application that automates the process of billing and managing small scale stores and restaurants. ![image](https://user-images.githubusercontent.com/120178074/206687170-4c32c423-8160-4191-8505-e57372020f03.png)
+“Bill Generator” is a web application that automates the process of billing and managing small scale stores and restaurants.
